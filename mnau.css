@@ -1,0 +1,35 @@
+body{
+    background-color: #FFF0F5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+img{
+    height: 300px;
+    display: block;
+    margin: 10px;
+}
+button{
+    border: none;
+    border-radius: 10px;
+    background-color: #FFDDE4;
+    color: #FF69B4;
+    padding: 8px 12px;
+    margin: 10px;
+}
+h2{
+    width: 75%;
+    margin: 20px auto;
+    color: #FF69B4;
+}
+input{
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+#kociciInput{
+    margin-bottom: 50px;
+}
